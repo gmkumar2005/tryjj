@@ -46,4 +46,5 @@ jj new -m "Add DB validation"
 zed 
 jj new -m "Add DB validation advanced"
 
+jj bookmark set  feat/basicandadvanced
 ```

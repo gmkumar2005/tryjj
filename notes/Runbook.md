@@ -48,3 +48,10 @@ jj new -m "Add DB validation advanced"
 
 jj bookmark set  feat/basicandadvanced
 ```
+
+## jjpr watch workflow
+```
+jjpr start 
+zed edit
+jj bookmark set  feat/jjprwatchtry1
+```

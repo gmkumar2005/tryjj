@@ -34,4 +34,7 @@ jj bookmark set  feat/businessvalidations
 ```
 jj new -m "Add login validations"
 jj bookmark set  feat/loginvalidations
+
+jj new -m " Add password validation"
+jj bookmark set  feat/passwordvalidations
 ```

@@ -38,3 +38,13 @@ jj bookmark set  feat/loginvalidations
 jj new -m " Add password validation"
 jj bookmark set  feat/passwordvalidations
 ```
+
+## Multiple commit in one branch, one PR
+```
+jj new -m "Add DB validation"
+
+zed 
+jj new -m "Add DB validation advanced"
+
+jj bookmark set  feat/basicandadvanced
+```

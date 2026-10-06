@@ -7,4 +7,5 @@ jj file untrack .lh
 ## Squash 
 ```
 jj squash --from qnptutpl --into zlpkxmyq
+jj squash --from qnptutpl --into zlpkxmyq
 ```

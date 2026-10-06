@@ -30,3 +30,8 @@ jj new main -m "add customer validation"
 zed add validations 
 jj bookmark set  feat/businessvalidations
 ```
+## Flowup 
+```
+jj new -m "Add login validations"
+jj bookmark set  feat/loginvalidations
+```
